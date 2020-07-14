@@ -6,9 +6,11 @@ To help sort out employees.
 
 Programs used: Node, MySQL, Javascript,and Inquirer
 
-command-line application allow users to:
+The command-line application allow users to:
 
-Add departments, roles, employees, 
+Add departments, roles, employees,
+
 View departments, roles, employees 
+
 Update employee roles
 
